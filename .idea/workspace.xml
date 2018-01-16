@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c62534b2-67d1-4369-848e-d326e566892a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/accuracy_graph.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/finger_features.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/get_features.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mlp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mlp_model.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nn_model.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/predict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/preprocess.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pygame_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-    </list>
+    <list default="true" id="c62534b2-67d1-4369-848e-d326e566892a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +46,8 @@
       <file leaf-file-name="accuracy_graph.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/accuracy_graph.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="-229">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
@@ -520,8 +507,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/accuracy_graph.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="-229">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
           </folding>
